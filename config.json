@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpync",
+        "uuid": 25623900,
+        "checksum": "g3v5i"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
